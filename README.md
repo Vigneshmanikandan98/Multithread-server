@@ -30,10 +30,10 @@ python client.py <command> <filename> [new_filename]
 
 Replace <command> with one of the following:
 
-UPLOAD: Upload a file to the server.
-DOWNLOAD: Download a file from the server.
-DELETE: Delete a file from the server.
-RENAME: Rename a file on the server.
+- **UPLOAD**: Upload a file to the server.
+- **DOWNLOAD**: Download a file from the server.
+- **DELETE**: Delete a file from the server.
+- **RENAME**: Rename a file on the server.
 
 Replace <filename> with the name of the file to be manipulated.
 
